@@ -1,6 +1,3 @@
-## 👋 Hi there, I'm a Computer Engineering Graduate & Aspiring AI/ML Engineer!
-
-Welcome to my GitHub! I am a passionate engineer transitioning into the world of Production-Grade Artificial Intelligence and Machine Learning. With a strong background in large-scale data validation, quality assurance, and workflow automation, I love building intelligent systems and deep-diving into data.
 
 ### 🚀 What I'm Working On:
 * 🤖 **AI & Machine Learning:** Moving from foundational concepts and core mathematics (like NumPy and linear algebra) to production-ready ML models.
